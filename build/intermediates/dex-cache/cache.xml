@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\ca36317847dd537d99cadb71159d56e68639a395\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_c56e9589b2b0e25e38580d64d1495a8ede113afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\653fcfe9f8b2b0ab60aea2ea0e465804a895049b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_b48f9e9477b63ae75dff994adee4136f29cd98cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6ca7caf627421aebf85e0d323327ce20b674032d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_1130cd35027f6378271f07228adf8ae6cdcc53c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\2c5551f9d70b534ed6b1b736c877323a23743885\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_554ff8bf0515287e02b511288708b6ce36759e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\7c9d0807a62221dcad51f5ee70d7876da79ffa9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_174b6eff95802b2e76b1ca71be1dee4d7a4155ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\9421d73f99b43eca8c6a335f8a81767bb183fbb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_e5f95e7c2afa9f3248f513b60f2c0ac4a4ea0367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\d64e06f85db9c0811656077e0e7fa703f46a5394\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_f6d80290194af565a9af2778c896d551e1f1ad46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\24ad487936bf4110a80c84187bb927a99216fbd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_815447fdbe276c1efbb82caabfd848b25ab4875b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\d52bc6eb355c89e0190ad231c9878ce409011044\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_34c9432895b89d3c643d22728b11b73ca4cd779c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\20bf74cb5c5c1cc35da87caedcc6c72fff9212a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_e2bd68cdf21bd0155222cdf4c17ee1c545a524a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bober\.android\build-cache\7cf9900645c6ad89faff26b4e773e39452e03d5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Bober\Desktop\4.8_exercises-master\SharedPreferences\app\build\intermediates\pre-dexed\debug\classes_126b1900ed15c66c3fa758771507133084b7f1f2.jar" />
+    </item>
+
+</items>
